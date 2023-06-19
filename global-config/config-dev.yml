@@ -1,2 +1,3 @@
 config:
   info: "current config was development environment"
+  verson: 1.1
