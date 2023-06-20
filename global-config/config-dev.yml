@@ -1,3 +1,4 @@
 config:
   info: "current config was development environment"
-  version: 1.5
+  version: 1.6
+  
